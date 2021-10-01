@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-weight: bold;">Clone da antiga tela inicial do Facebook</h1>
+<h1 style="text-align: center; font-weight: bold;">Clone da antiga tela inicial do Facebook.</h1>
 
 ## Demo 📸
 
